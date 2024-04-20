@@ -1,0 +1,10 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¶í—œï1J$89f48307-9d2d-4ea6-bf31-82e48361ed13
+
+java:S1612"=Replace this lambda with method reference 'MovieMinDTO::new'.(É©Œ8””˜œï1J$9a778052-1aa8-4f6b-ad1c-f4045e6d4f39
+r	java:S106"+Replace this use of System.out by a logger.(ø…»¶üÿÿÿÿ8Çí—œï1J$4caf94e3-0607-4340-85a7-9ef1ece40b31
+m	java:S106 "+Replace this use of System.out by a logger.(Áªø8˜”˜œï1J$f6160385-d950-4666-961b-74c1255c8f41
+r	java:S106""+Replace this use of System.out by a logger.(ˆšÑÖüÿÿÿÿ8™”˜œï1J$0d1ab9e5-b6e9-4e41-9db3-1ebc40650d26
+m	java:S106&"+Replace this use of System.out by a logger.(ì™Öí8Åò˜œï1J$e98eb7b7-5d37-4cee-85fc-35b10732d290
+m	java:S106("+Replace this use of System.out by a logger.(Áªø8Åò˜œï1J$5401d0d9-d38a-4654-835a-1a21d4ea632e

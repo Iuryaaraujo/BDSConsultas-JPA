@@ -1,0 +1,10 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8àˆ©åï1J$2cf3a18a-938d-4d8a-8a70-80807a736bba
+ˆ
+java:S1612"@Replace this lambda with method reference 'CategorySumDTO::new'.(Ê•³»ıÿÿÿÿ8¯Ñõåï1J$a8df56a9-64a7-4ead-9b54-8728adb59adb
+r	java:S106"+Replace this use of System.out by a logger.(èù²øÿÿÿÿ8çì«åï1J$14e9cf2c-a1e5-42b7-940b-fde2eed1a12d
+m	java:S106!"+Replace this use of System.out by a logger.(Áªø8èì«åï1J$ab260484-8ce9-406e-b2d0-0cb61cad38ff
+r	java:S106#"+Replace this use of System.out by a logger.(ˆšÑÖüÿÿÿÿ8éì«åï1J$58e9c74c-7dfb-466b-bf67-e59ac35b1fb7
+r	java:S106'"+Replace this use of System.out by a logger.(ºşºùûÿÿÿÿ8½Ñõåï1J$d6d267c8-0a42-44bd-9ef0-671b41f9df23
+m	java:S106)"+Replace this use of System.out by a logger.(Áªø8¾Ñõåï1J$ac744122-f161-4f3c-a416-7d553e73bdab

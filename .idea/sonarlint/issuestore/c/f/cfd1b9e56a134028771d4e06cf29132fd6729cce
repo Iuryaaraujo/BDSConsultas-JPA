@@ -1,0 +1,10 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÃÙ¯™ï1J$e9d6149d-ffe1-4cf5-af96-d73f38c2cc31
+ƒ
+java:S1612"@Replace this lambda with method reference 'CustomerMinDTO::new'.(¬¡ù8ÜÙ¯™ï1J$232da50a-8f66-4e31-a8d4-1d42e83e0db6
+r	java:S106"+Replace this use of System.out by a logger.(èù²øÿÿÿÿ8Ë­‚›ï1J$d9b3ad00-7863-4789-9290-283e6f8da564
+m	java:S106 "+Replace this use of System.out by a logger.(Áªø8ï‘ÿèï1J$3ae98547-1f56-4ad8-8e2c-10e0093f0df3
+r	java:S106""+Replace this use of System.out by a logger.(ˆšÑÖüÿÿÿÿ8ğ‘ÿèï1J$bee96465-472a-477a-94d3-db8cd632b6a6
+L	java:S106&"+Replace this use of System.out by a logger.(ºşºùûÿÿÿÿ8¨Æÿèï1
+G	java:S106("+Replace this use of System.out by a logger.(Áªø8©Æÿèï1
